@@ -7,3 +7,6 @@ D:\Kaynak Kodlar\Gereksiz Uygulamalar\Utopian\Google Translate API\WindowsFormsA
 D:\Kaynak Kodlar\Gereksiz Uygulamalar\Utopian\Google Translate API\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\Kaynak Kodlar\Gereksiz Uygulamalar\Utopian\Google Translate API\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Kaynak Kodlar\Gereksiz Uygulamalar\Utopian\Google Translate API\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Kaynak Kodlar\Github\Google-Translate-With-C-\Google Translate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Kaynak Kodlar\Github\Google-Translate-With-C-\Google Translate\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Kaynak Kodlar\Github\Google-Translate-With-C-\Google Translate\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
